@@ -1,5 +1,0 @@
-1;Cliente excluido; ;0/0/0; ; ; ; ; ; ; ; ; ;
-2;Cliente excluido; ;0/0/0; ; ; ; ; ; ; ; ; ;
-3;Cliente excluido; ;0/0/0; ; ; ; ; ; ; ; ; ;
-4;Cliente excluido; ;0/0/0; ; ; ; ; ; ; ; ; ;
-5;Victor Cardoso Nicacio;12345698778;4/5/1999;11972721763;11972721763;13322121;SP;Jump City;Sarto;123; ;Jd Bandeirolas;
